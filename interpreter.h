@@ -1,5 +1,5 @@
 /*
-    interpreter.c
+    interpreter.h
     Yang Chen
     25 November 2019
 */
