@@ -1,6 +1,6 @@
 /*
     interpreter_test.c
-    Yang Chen
+    Kevin Smith
     26 November 2019
 */
 
