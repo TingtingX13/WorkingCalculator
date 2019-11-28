@@ -1,6 +1,6 @@
 /*
     Codegen_test.c
-    Kevin Smith
+    Yang Chen
     26 November 2019
 */
 
