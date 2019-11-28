@@ -1,5 +1,5 @@
 /*
-    tokenizer.c
+    tokenizer.h
     Tingting Xun, Kevin Smith
     26 November 2019
 */
